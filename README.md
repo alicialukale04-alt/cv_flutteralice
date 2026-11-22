@@ -65,7 +65,7 @@ Pour vous connecter, utilisez un compte créé via l'API :
 <video src="screenshots/video_demo.mp4" controls="controls" style="max-width: 100%;">
 
 </video>
-*Votre navigateur ne supporte pas la balise vidéo. Vous pouvez télécharger la vidéo [ici](screenshots/video_demo.mp4).*
+Votre navigateur ne supporte pas la balise vidéo. Vous pouvez télécharger la vidéo ici <a href="screenshots/video_demo.mp4">Video demo</a>
 ## Technologies
 
 - Flutter / Dart (Material 3)
