@@ -63,9 +63,9 @@ Pour vous connecter, utilisez un compte créé via l'API :
 *Voici la vidéo montrant la communication entre l'application Flutter, l'API et la base de données MySQL.*
 
 <video src="screenshots/video_demo.mp4" controls="controls" style="max-width: 100%;">
-Votre navigateur ne supporte pas la balise vidéo. Vous pouvez télécharger la vidéo [ici](screenshots/video_demo.mp4).
-</video>
 
+</video>
+*Votre navigateur ne supporte pas la balise vidéo. Vous pouvez télécharger la vidéo [ici](screenshots/video_demo.mp4).*
 ## Technologies
 
 - Flutter / Dart (Material 3)
